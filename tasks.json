@@ -1,296 +1,267 @@
-[
-   {
-      "id":1,
-      "title":"Test smoke detectors",
-      "description":"Test your smoke detectors monthly. It takes about 5 minutes. Check it off your list and keep your family safe.",
-      "season":"Monthly"
+{
+   "Monthly":{
+      "tasks":[
+         {
+            "id":1,
+            "title":"Test smoke detectors",
+            "description":"Test your smoke detectors monthly. It takes about 5 minutes. Check it off your list and keep your family safe."
+         },
+         {
+            "id":2,
+            "title":"Deep cleaning",
+            "description":"Deep clean your house each month to avoid grime and pests. Make a list of areas to scrub and divide the tasks. Regular cleaning makes it easier than doing it infrequently."
+         },
+         {
+            "id":3,
+            "title":"Replace HVAC air filters (every 3-6 months)",
+            "description":"Replace your air filter every three months to maintain air quality and HVAC efficiency. They are cheap and easy to replace. Order them online if needed."
+         },
+         {
+            "id":4,
+            "title":"Inspect fire extinguishers",
+            "description":"Inspect your fire extinguishers regularly. Store them in accessible locations, especially near kitchens and furnaces."
+         },
+         {
+            "id":5,
+            "title":"Clean garbage disposal",
+            "description":"Clean your garbage disposal each month to avoid odors and damage. Use cut-up lemons or ice cubes for cleaning. Baking soda and vinegar also work well."
+         },
+         {
+            "id":6,
+            "title":"Unclog drains",
+            "description":"Keep your drains clear of food and hair to prevent clogs. Use products like Drano for effective cleaning."
+         },
+         {
+            "id":7,
+            "title":"Clean the range hood and filter",
+            "description":"Clean the range hood and filter regularly to prevent grease buildup. Wipe the hood with soap and water, and soak the filter in hot, soapy water."
+         }
+      ]
    },
-   {
-      "id":2,
-      "title":"Deep cleaning",
-      "description":"Deep clean your house each month to avoid grime and pests. Make a list of areas to scrub and divide the tasks. Regular cleaning makes it easier than doing it infrequently.",
-      "season":"Monthly"
+   "Spring":{
+      "tasks":[
+         {
+            "id":8,
+            "title":"Wash outside windows and siding",
+            "description":"Rent a power washer to clean your windows and siding each spring. You’ll be surprised at how much dirt accumulates."
+         },
+         {
+            "id":9,
+            "title":"Clean gutters and downspouts",
+            "description":"Clear your gutters and downspouts to prevent water damage. Debris can block water flow and create a home for pests. Clean twice a year."
+         },
+         {
+            "id":10,
+            "title":"Pump the septic tank (if you have one)",
+            "description":"Pump your septic tank every 3-5 years. Schedule it after the snow melts."
+         },
+         {
+            "id":11,
+            "title":"Inspect roof and chimney for any damage, cracks or leaks",
+            "description":"Inspect your chimney each spring for damage from winter weather. Hire a professional to check bricks, mortar, and flue."
+         },
+         {
+            "id":12,
+            "title":"Get the Air Conditioning system serviced",
+            "description":"Service your central air conditioning system each spring before summer use. This includes cleaning and inspecting the entire system, usually costing $100 to $150."
+         },
+         {
+            "id":13,
+            "title":"Apply pre-emergent to your lawn to prevent weeds from growing",
+            "description":"Apply pre-emergent in spring to prevent weed germination. It's easier than dealing with weeds later."
+         },
+         {
+            "id":14,
+            "title":"Re-seal the deck, fence, railings and other outdoor woodwork",
+            "description":"Inspect your wooden structures each spring. Re-seal if you see splintering to protect against the elements."
+         },
+         {
+            "id":15,
+            "title":"Inspect driveway and other exterior concrete pathways",
+            "description":"Inspect your driveway for cracks. If you see severe cracking, consider resealing it to prevent further damage."
+         },
+         {
+            "id":16,
+            "title":"Inspect your sprinkler heads and test the irrigation system",
+            "description":"Check each sprinkler head before using your irrigation system. Make sure nothing is blocking the spray path."
+         },
+         {
+            "id":17,
+            "title":"Spray for mosquitos and other bugs",
+            "description":"Use Ortho defense spray around your home to reduce bug problems. It’s not a complete solution, but it helps."
+         },
+         {
+            "id":18,
+            "title":"Check screen doors and windows",
+            "description":"Inspect your screens for rips or holes each spring. Repair them to keep bugs out."
+         },
+         {
+            "id":19,
+            "title":"Get your lawnmower blades sharpened",
+            "description":"Sharpen your mower blades each year. Experts suggest doing it twice a year, but once is often enough for small lawns."
+         }
+      ]
    },
-   {
-      "id":3,
-      "title":"Replace HVAC air filters (every 3-6 months)",
-      "description":"Replace your air filter every three months to maintain air quality and HVAC efficiency. They are cheap and easy to replace. Order them online if needed.",
-      "season":"Monthly"
+   "Summer":{
+      "tasks":[
+         {
+            "id":20,
+            "title":"Get the grill ready for cooking",
+            "description":"Clean your grill thoroughly and replace grates if needed. Refill propane tanks to avoid running out."
+         },
+         {
+            "id":21,
+            "title":"Mulch",
+            "description":"Add mulch to flower beds to suppress weeds and improve soil health. It helps retain moisture and adds nutrients."
+         },
+         {
+            "id":22,
+            "title":"Exterior paint touch-ups",
+            "description":"Inspect your home’s exterior. Scrape off chipping paint, sand it down, and apply a fresh layer."
+         },
+         {
+            "id":23,
+            "title":"Check on the washer and dryer",
+            "description":"Clean the lint filter before and after each use. Inspect the dryer vent to ensure proper airflow."
+         },
+         {
+            "id":24,
+            "title":"Clean refrigerator coils",
+            "description":"Clean your refrigerator coils to maintain efficiency. Dusty coils can increase energy costs."
+         },
+         {
+            "id":25,
+            "title":"Clean bathroom vent fans",
+            "description":"Remove and clean your bathroom vent fan cover. This takes just a few minutes and helps with airflow."
+         },
+         {
+            "id":26,
+            "title":"Test your home alarm",
+            "description":"Test your home alarm system each year to ensure it’s functioning properly."
+         },
+         {
+            "id":27,
+            "title":"Wash the trash barrel and recycle bin",
+            "description":"Clean your trash barrels outside. Use soap and a hose to eliminate odors. This can be a messy job."
+         },
+         {
+            "id":28,
+            "title":"Fertilize the lawn",
+            "description":"Fertilize your lawn at least once during summer for strength and health. Follow safety precautions when applying."
+         }
+      ]
    },
-   {
-      "id":4,
-      "title":"Inspect fire extinguishers",
-      "description":"Inspect your fire extinguishers regularly. Store them in accessible locations, especially near kitchens and furnaces.",
-      "season":"Monthly"
+   "Fall":{
+      "tasks":[
+         {
+            "id":29,
+            "title":"Get heating system serviced",
+            "description":"Service your heating system in the fall before winter use. This includes cleaning, inspecting, and calibrating."
+         },
+         {
+            "id":30,
+            "title":"Schedule a chimney sweep",
+            "description":"Get your chimney swept before using the fireplace. This prevents buildup and keeps your home safe."
+         },
+         {
+            "id":31,
+            "title":"Put outdoor furniture and grill into storage",
+            "description":"Store your outdoor furniture and grill for the winter. This helps protect them from the elements."
+         },
+         {
+            "id":32,
+            "title":"Seal cracks on windows and doors",
+            "description":"Inspect your windows and doors for gaps. Replace weather stripping as needed and seal cracks with caulk."
+         },
+         {
+            "id":33,
+            "title":"Turn off outdoor water",
+            "description":"Prevent frozen pipes by turning off outdoor water to faucets."
+         },
+         {
+            "id":34,
+            "title":"Winterize sprinkler system",
+            "description":"Winterize your sprinkler system each fall. Contact a professional to remove water from the pipes."
+         },
+         {
+            "id":35,
+            "title":"Rake leaves",
+            "description":"Rake leaves from your lawn to allow light and nutrients to reach the grass."
+         },
+         {
+            "id":36,
+            "title":"Clean gutters and downspouts",
+            "description":"Clear gutters and downspouts of leaves and debris to prevent water buildup and damage."
+         },
+         {
+            "id":37,
+            "title":"Overseed and aerate the lawn",
+            "description":"In the northeast, fall is ideal for overseeding and aerating your lawn. This promotes healthy growth."
+         },
+         {
+            "id":38,
+            "title":"Inspect pipes for insulation",
+            "description":"Check your pipes for proper insulation. Keep your home heated to at least 13 degrees Celsius to prevent freezing."
+         },
+         {
+            "id":39,
+            "title":"Check attic vents",
+            "description":"Inspect attic vents for blockages. Remove any debris or nests to ensure airflow."
+         }
+      ]
    },
-   {
-      "id":5,
-      "title":"Clean garbage disposal",
-      "description":"Clean your garbage disposal each month to avoid odors and damage. Use cut-up lemons or ice cubes for cleaning. Baking soda and vinegar also work well.",
-      "season":"Monthly"
-   },
-   {
-      "id":6,
-      "title":"Unclog drains",
-      "description":"Keep your drains clear of food and hair to prevent clogs. Use products like Drano for effective cleaning.",
-      "season":"Monthly"
-   },
-   {
-      "id":7,
-      "title":"Clean the range hood and filter",
-      "description":"Clean the range hood and filter regularly to prevent grease buildup. Wipe the hood with soap and water, and soak the filter in hot, soapy water.",
-      "season":"Monthly"
-   },
-   {
-      "id":8,
-      "title":"Wash outside windows and siding",
-      "description":"Rent a power washer to clean your windows and siding each spring. You’ll be surprised at how much dirt accumulates.",
-      "season":"Spring"
-   },
-   {
-      "id":9,
-      "title":"Clean gutters and downspouts",
-      "description":"Clear your gutters and downspouts to prevent water damage. Debris can block water flow and create a home for pests. Clean twice a year.",
-      "season":"Spring"
-   },
-   {
-      "id":10,
-      "title":"Pump the septic tank (if you have one)",
-      "description":"Pump your septic tank every 3-5 years. Schedule it after the snow melts.",
-      "season":"Spring"
-   },
-   {
-      "id":11,
-      "title":"Inspect roof and chimney for any damage, cracks or leaks",
-      "description":"Inspect your chimney each spring for damage from winter weather. Hire a professional to check bricks, mortar, and flue.",
-      "season":"Spring"
-   },
-   {
-      "id":12,
-      "title":"Get the Air Conditioning system serviced",
-      "description":"Service your central air conditioning system each spring before summer use. This includes cleaning and inspecting the entire system, usually costing $100 to $150.",
-      "season":"Spring"
-   },
-   {
-      "id":13,
-      "title":"Apply pre-emergent to your lawn to prevent weeds from growing",
-      "description":"Apply pre-emergent in spring to prevent weed germination. It's easier than dealing with weeds later.",
-      "season":"Spring"
-   },
-   {
-      "id":14,
-      "title":"Re-seal the deck, fence, railings and other outdoor woodwork",
-      "description":"Inspect your wooden structures each spring. Re-seal if you see splintering to protect against the elements.",
-      "season":"Spring"
-   },
-   {
-      "id":15,
-      "title":"Inspect driveway and other exterior concrete pathways",
-      "description":"Inspect your driveway for cracks. If you see severe cracking, consider resealing it to prevent further damage.",
-      "season":"Spring"
-   },
-   {
-      "id":16,
-      "title":"Inspect your sprinkler heads and test the irrigation system",
-      "description":"Check each sprinkler head before using your irrigation system. Make sure nothing is blocking the spray path.",
-      "season":"Spring"
-   },
-   {
-      "id":17,
-      "title":"Spray for mosquitos and other bugs",
-      "description":"Use Ortho defense spray around your home to reduce bug problems. It’s not a complete solution, but it helps.",
-      "season":"Spring"
-   },
-   {
-      "id":18,
-      "title":"Check screen doors and windows",
-      "description":"Inspect your screens for rips or holes each spring. Repair them to keep bugs out.",
-      "season":"Spring"
-   },
-   {
-      "id":19,
-      "title":"Get your lawnmower blades sharpened",
-      "description":"Sharpen your mower blades each year. Experts suggest doing it twice a year, but once is often enough for small lawns.",
-      "season":"Spring"
-   },
-   {
-      "id":20,
-      "title":"Get the grill ready for cooking",
-      "description":"Clean your grill thoroughly and replace grates if needed. Refill propane tanks to avoid running out.",
-      "season":"Summer"
-   },
-   {
-      "id":21,
-      "title":"Mulch",
-      "description":"Add mulch to flower beds to suppress weeds and improve soil health. It helps retain moisture and adds nutrients.",
-      "season":"Summer"
-   },
-   {
-      "id":22,
-      "title":"Exterior paint touch-ups",
-      "description":"Inspect your home’s exterior. Scrape off chipping paint, sand it down, and apply a fresh layer.",
-      "season":"Summer"
-   },
-   {
-      "id":23,
-      "title":"Check on the washer and dryer",
-      "description":"Clean the lint filter before and after each use. Inspect the dryer vent to ensure proper airflow.",
-      "season":"Summer"
-   },
-   {
-      "id":24,
-      "title":"Clean refrigerator coils",
-      "description":"Clean your refrigerator coils to maintain efficiency. Dusty coils can increase energy costs.",
-      "season":"Summer"
-   },
-   {
-      "id":25,
-      "title":"Clean bathroom vent fans",
-      "description":"Remove and clean your bathroom vent fan cover. This takes just a few minutes and helps with airflow.",
-      "season":"Summer"
-   },
-   {
-      "id":26,
-      "title":"Test your home alarm",
-      "description":"Test your home alarm system each year to ensure it’s functioning properly.",
-      "season":"Summer"
-   },
-   {
-      "id":27,
-      "title":"Wash the trash barrel and recycle bin",
-      "description":"Clean your trash barrels outside. Use soap and a hose to eliminate odors. This can be a messy job.",
-      "season":"Summer"
-   },
-   {
-      "id":28,
-      "title":"Fertilize the lawn",
-      "description":"Fertilize your lawn at least once during summer for strength and health. Follow safety precautions when applying.",
-      "season":"Summer"
-   },
-   {
-      "id":29,
-      "title":"Get heating system serviced",
-      "description":"Service your heating system in the fall before winter use. This includes cleaning, inspecting, and calibrating.",
-      "season":"Fall"
-   },
-   {
-      "id":30,
-      "title":"Schedule a chimney sweep",
-      "description":"Get your chimney swept before using the fireplace. This prevents buildup and keeps your home safe.",
-      "season":"Fall"
-   },
-   {
-      "id":31,
-      "title":"Put outdoor furniture and grill into storage",
-      "description":"Store your outdoor furniture and grill for the winter. This helps protect them from the elements.",
-      "season":"Fall"
-   },
-   {
-      "id":32,
-      "title":"Seal cracks on windows and doors",
-      "description":"Inspect your windows and doors for gaps. Replace weather stripping as needed and seal cracks with caulk.",
-      "season":"Fall"
-   },
-   {
-      "id":33,
-      "title":"Turn off outdoor water",
-      "description":"Prevent frozen pipes by turning off outdoor water to faucets.",
-      "season":"Fall"
-   },
-   {
-      "id":34,
-      "title":"Winterize sprinkler system",
-      "description":"Winterize your sprinkler system each fall. Contact a professional to remove water from the pipes.",
-      "season":"Fall"
-   },
-   {
-      "id":35,
-      "title":"Rake leaves",
-      "description":"Rake leaves from your lawn to allow light and nutrients to reach the grass.",
-      "season":"Fall"
-   },
-   {
-      "id":36,
-      "title":"Clean gutters and downspouts",
-      "description":"Clear gutters and downspouts of leaves and debris to prevent water buildup and damage.",
-      "season":"Fall"
-   },
-   {
-      "id":37,
-      "title":"Overseed and aerate the lawn",
-      "description":"In the northeast, fall is ideal for overseeding and aerating your lawn. This promotes healthy growth.",
-      "season":"Fall"
-   },
-   {
-      "id":38,
-      "title":"Inspect pipes for insulation",
-      "description":"Check your pipes for proper insulation. Keep your home heated to at least 13 degrees Celsius to prevent freezing.",
-      "season":"Fall"
-   },
-   {
-      "id":39,
-      "title":"Check attic vents",
-      "description":"Inspect attic vents for blockages. Remove any debris or nests to ensure airflow.",
-      "season":"Fall"
-   },
-   {
-      "id":40,
-      "title":"Prepare for a storm",
-      "description":"Stock up on water, non-perishable food, batteries, and shovels. Consider getting a generator for power outages.",
-      "season":"Winter"
-   },
-   {
-      "id":41,
-      "title":"Make sure your entryways are protected",
-      "description":"Place mats inside doorways to protect floors. Inspect weather stripping on exterior doors and replace as needed.",
-      "season":"Winter"
-   },
-   {
-      "id":42,
-      "title":"Check on insulation",
-      "description":"Inspect your insulation for damage or wear. If you find any issues, contact a professional.",
-      "season":"Winter"
-   },
-   {
-      "id":43,
-      "title":"Protect your AC unit with a piece of plywood",
-      "description":"Do not cover your AC unit in winter. Place a piece of plywood on top to protect it from falling debris.",
-      "season":"Winter"
-   },
-   {
-      "id":44,
-      "title":"Insulate hot water tank",
-      "description":"Buy a hot water tank jacket to reduce heat loss. This can lower your energy bill.",
-      "season":"Winter"
-   },
-   {
-      "id":45,
-      "title":"Pick up a good humidifier",
-      "description":"Use a humidifier to add moisture to the air in winter. This helps with dry skin and throat.",
-      "season":"Winter"
-   },
-   {
-      "id":46,
-      "title":"Make sure steps and handrails are safe and secure",
-      "description":"Inspect your steps and handrails for safety. Ensure everything is secure and stable.",
-      "season":"Winter"
-   },
-   {
-      "id":47,
-      "title":"Install storm windows and doors",
-      "description":"Install storm windows to reduce drafts. They pay for themselves over time.",
-      "season":"Winter"
-   },
-   {
-      "id":48,
-      "title":"Remove window screens",
-      "description":"Remove screens in winter to prevent damage from snow and ice. This is a quick task.",
-      "season":"Winter"
-   },
-   {
-      "id":49,
-      "title":"Make sure the heat is set to 55 degrees Fahrenheit or higher when you leave your house",
-      "description":"Keep your home heat above 55 degrees Fahrenheit to prevent frozen pipes. This saves money on repairs.",
-      "season":"Winter"
+   "Winter":{
+      "tasks":[
+         {
+            "id":40,
+            "title":"Prepare for a storm",
+            "description":"Stock up on water, non-perishable food, batteries, and shovels. Consider getting a generator for power outages."
+         },
+         {
+            "id":41,
+            "title":"Make sure your entryways are protected",
+            "description":"Place mats inside doorways to protect floors. Inspect weather stripping on exterior doors and replace as needed."
+         },
+         {
+            "id":42,
+            "title":"Check on insulation",
+            "description":"Inspect your insulation for damage or wear. If you find any issues, contact a professional."
+         },
+         {
+            "id":43,
+            "title":"Protect your AC unit with a piece of plywood",
+            "description":"Do not cover your AC unit in winter. Place a piece of plywood on top to protect it from falling debris."
+         },
+         {
+            "id":44,
+            "title":"Insulate hot water tank",
+            "description":"Buy a hot water tank jacket to reduce heat loss. This can lower your energy bill."
+         },
+         {
+            "id":45,
+            "title":"Pick up a good humidifier",
+            "description":"Use a humidifier to add moisture to the air in winter. This helps with dry skin and throat."
+         },
+         {
+            "id":46,
+            "title":"Make sure steps and handrails are safe and secure",
+            "description":"Inspect your steps and handrails for safety. Ensure everything is secure and stable."
+         },
+         {
+            "id":47,
+            "title":"Install storm windows and doors",
+            "description":"Install storm windows to reduce drafts. They pay for themselves over time."
+         },
+         {
+            "id":48,
+            "title":"Remove window screens",
+            "description":"Remove screens in winter to prevent damage from snow and ice. This is a quick task."
+         },
+         {
+            "id":49,
+            "title":"Make sure the heat is set to 55 degrees Fahrenheit or higher when you leave your house",
+            "description":"Keep your home heat above 55 degrees Fahrenheit to prevent frozen pipes. This saves money on repairs."
+         }
+      ]
    }
-]
+}
